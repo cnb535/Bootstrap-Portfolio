@@ -1,0 +1,70 @@
+
+}
+h1, h2, h3 {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+.header {
+	background-color: #ffffff;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 50px;
+	width: 100%;
+	height: 50px;
+
+}
+.navtitle {
+	font-size: 23px;
+	width: 19%;
+	background-color: #a9c6fb;
+	float: left;
+	padding: 20px;
+}
+.buttons {
+	display: inline;
+	float: right;
+}
+.background {
+	background-image: url(../images/intersection.png);
+	background-repeat: repeat;
+	/*background-attachment: fixed;
+	background-color: #ffffff
+	background-size: cover;
+	background-position: bottom;*/
+	width: 100%;
+	height: 700px;
+}
+.entire {
+	width: 960px;
+}
+.main {
+	width: 650px;
+}
+.sidebar {
+	width: 270px;
+	float: right;
+}
+.social {
+	width: 13%;
+	height: 13%;
+}
+.footer{
+	display: block;
+	height: 50px;
+	border: 5px;
+	border-color: yellow;
+	font-size: 7pt;
+	background-color: #666666;
+	text-align: center;
+	color: white;
+	
+}
+#me {
+	width: 25%;
+	height: 25%;
+}
+
