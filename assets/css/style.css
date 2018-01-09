@@ -10,6 +10,35 @@ li {
 	float: left;
 }
 
+form {
+	position: relative;
+	top: -8px;
+}
+
+textarea {
+	width: 584px;
+	height: 190px;
+	border-color: #dfdfdf;
+}
+
+/*input[type="text"] {
+	width: 584px;
+	height: 22px;
+	margin-bottom: 7px;
+	font-size: 15px;
+}*/
+
+input[type="submit"] {
+	width: 117px;
+	height: 41px;
+	margin-top: 20px;
+	background-color: #a9c6fb;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	font-size: 19px;
+	font-weight: bolder;
+	color: #ffffff;
+}
+
 .background {
 	background-image: url(../images/intersection.png);
 	background-repeat: repeat;
@@ -58,7 +87,7 @@ li {
 
 #main {
 	display: inline-block;
-	width: 590px;
+	width: 651px;
 	height: 480px;
 	position: relative;
 	left: 160px;
@@ -154,8 +183,8 @@ li {
 
 #contact {
 	display: inline-block;
-	width: 590px;
-	height: 524px;
+	width: 651px;
+	height: 582px;
 	position: relative;
 	left: 160px;
 	padding: 40px 30px;
