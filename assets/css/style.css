@@ -45,6 +45,12 @@ input[type="submit"] {
 	background-attachment: fixed;
 }
 
+.contact-title {
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 2;
+}
+
 .entire {
 	display: inline-block;
 	padding: 38px 0px;
@@ -184,7 +190,7 @@ input[type="submit"] {
 #contact {
 	display: inline-block;
 	width: 651px;
-	height: 582px;
+	height: 622px;
 	position: relative;
 	left: 160px;
 	padding: 40px 30px;
