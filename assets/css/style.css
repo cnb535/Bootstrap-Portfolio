@@ -18,7 +18,6 @@ li {
 
 .entire {
 	display: inline-block;
-	width: 1398px;
 	padding: 38px 0px;
 }
 
@@ -32,6 +31,12 @@ li {
 
 .social {
 	width: 45%;
+}
+
+.portfolio {
+	display: inline-block;
+	width: 274px;
+	height: 206px;
 }
 
 .footer {
@@ -84,5 +89,95 @@ li {
 #main p {
 	font-size: 18px;
 	line-height: 1.7;
+	display: inline;
+}
+
+#gallery {
+	display: inline-block;
+	width: 651px;
+	height: 904px;
+	position: relative;
+	left: 160px;
+	padding: 40px 30px;
+	margin-right: 41px;	
+}
+
+#gallery h2 {
+	font-size: 30px;
+	font-weight: bolder;
+	color: #a9c6fb;
+	margin-bottom: 30px;
+}
+
+#gallery hr {
+	border-width: 1.5px;
+	border-style: solid;
+	border-color: #c9c9c9;
+	margin-bottom: 30px;
+}
+
+#gallery p {
+	font-size: 22px;
+	line-height: 3;
+	text-align: center;
+	color: #ffffff;
+	background-color: #a9c6fb;
+	height: 61px;
+	position: relative;
+	top: 145px;
+}
+
+#hangman {
+	background-image: url(../images/hangman.jpg);
+	margin-right: 38px;
+	margin-bottom: 56px;
+}
+
+#rpg-game {
+	background-image: url(../images/rpg-game.jpg);
+	margin-bottom: 56px;
+}
+
+#trivia-game {
+	background-image: url(../images/trivia-game.jpg);
+	margin-right: 38px;
+	margin-bottom: 56px;
+}
+
+#rutgers {
+	background-image: url(../images/rutgers.jpg);
+}
+
+#rps {
+	background-image: url(../images/rps.jpg);
+}
+
+#contact {
+	display: inline-block;
+	width: 590px;
+	height: 524px;
+	position: relative;
+	left: 160px;
+	padding: 40px 30px;
+	margin-right: 41px;	
+}
+
+#contact h2 {
+	font-size: 30px;
+	font-weight: bolder;
+	color: #a9c6fb;
+	margin-bottom: 30px;
+}
+
+#contact hr {
+	border-width: 1.5px;
+	border-style: solid;
+	border-color: #c9c9c9;
+	margin-bottom: 30px;
+}
+
+#contact p {
+	font-size: 18px;
+	line-height: 2;
 	display: inline;
 }
